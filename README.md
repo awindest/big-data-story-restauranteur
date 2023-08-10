@@ -1,6 +1,2 @@
 # big-data-story-restauranteur
-Try this markdown:
-
-
-![Big Data Story](https://github.com/awindest/big-data-story-restauranteur/img/title.png?raw=true)
-(https://github.com/awindest/big-data-story-restauranteur/blob/master/img/title.png?raw=true)
+![readmeImage](https://github.com/awindest/big-data-story-restauranteur/assets/56596420/8654d351-d7a2-484b-a69e-ad7acb7355e3)
